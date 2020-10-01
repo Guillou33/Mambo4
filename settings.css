@@ -129,6 +129,18 @@ label:active:after {
 	width: 45px;
 }
 
+#switch-sounds{
+  cursor: pointer;
+	text-indent: -9999px;
+	width: 60px;
+	height: 30px;
+	background: grey;
+	display: block;
+	border-radius: 100px;
+  position: relative;
+  margin-right: 15px;
+}
+
 .sounds {
   background-color: #47864a;
   border-radius: 20px;
